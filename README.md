@@ -457,3 +457,11 @@ The project demonstrates important React concepts including Props, State, useSta
 The Student Practice Tracker specifically demonstrates how React state changes can dynamically update the user interface and browser document title while also showing component mounting and unmounting behavior.
 
 This project provides a strong foundation for developing larger student management and academic tracking applications in the future.
+
+🎥 Demo Video
+
+Watch the complete working demonstration of the Student Management System:
+
+👉 View Project Demo Video
+
+The demo showcases the complete application workflow, including user registration, login, student registration, viewing student records, and deleting student records.
